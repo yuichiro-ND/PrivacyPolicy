@@ -57,3 +57,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at pachiyatotomoni@gmail.com
+
+google.com, pub-6110619069132882, DIRECT, f08c47fec0942fa0
