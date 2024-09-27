@@ -14,6 +14,22 @@ For a better experience, while using our Service, I may require you to provide u
 
 The app does use third party services that may collect information used to identify you.
 
+Advertising and Data Collection Transparency
+
+In the "Advertising and Third-Party Services" section, it might be beneficial to provide more specific information on what data is collected by advertising providers and how it is collected. Adding statements like the following can enhance transparency:
+"Third-party advertising providers may collect your IP address, device information, and other data in order to display personalized ads based on your interests."
+"This information may be collected through cookies or other tracking technologies."
+
+User Consent
+
+If the app collects data or uses tracking for advertising purposes, it is important to obtain user consent. This is especially relevant for compliance with regulations such as the EU's General Data Protection Regulation (GDPR) or California Consumer Privacy Act (CCPA). Consider adding a section such as:
+"This app may collect personal data for advertising or service improvement purposes. Any such data collection will require user consent."
+
+App Store Guidelines Compliance
+
+For the "Pricing and Purchases" section, it is necessary to ensure that the wording complies with the policies of the App Store or Google Play. Ensure that in-app purchases and subscriptions are properly explained. For example, including the following statement is appropriate:
+"Refunds for in-app purchases will adhere to the terms and conditions of Apple/Google Play."
+
 Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
