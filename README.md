@@ -57,6 +57,22 @@ This app is provided primarily as a free service. However, some features within 
 Users can make purchases based on the prices displayed within the app, and any refund policy will follow the terms and conditions of the app store.
 Further details about in-app purchases and subscriptions can be found in the "Settings" or "Help" section of the app.
 
+Advertising and Data Collection Transparency
+
+In the "Advertising and Third-Party Services" section, it might be beneficial to provide more specific information on what data is collected by advertising providers and how it is collected. Adding statements like the following can enhance transparency:
+"Third-party advertising providers may collect your IP address, device information, and other data in order to display personalized ads based on your interests."
+"This information may be collected through cookies or other tracking technologies."
+
+User Consent
+
+If the app collects data or uses tracking for advertising purposes, it is important to obtain user consent. This is especially relevant for compliance with regulations such as the EU's General Data Protection Regulation (GDPR) or California Consumer Privacy Act (CCPA). Consider adding a section such as:
+"This app may collect personal data for advertising or service improvement purposes. Any such data collection will require user consent."
+
+App Store Guidelines Compliance
+
+For the "Pricing and Purchases" section, it is necessary to ensure that the wording complies with the policies of the App Store or Google Play. Ensure that in-app purchases and subscriptions are properly explained. For example, including the following statement is appropriate:
+"Refunds for in-app purchases will adhere to the terms and conditions of Apple/Google Play."
+
 Limitations of Liability
 
 This app is provided "as is," and the developer takes no responsibility for any damage or issues related to its use. The use of this app is entirely at the user’s own risk.
