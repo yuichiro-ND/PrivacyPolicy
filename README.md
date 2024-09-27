@@ -46,6 +46,22 @@ Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+Advertising and Third-Party Services
+
+The app uses third-party advertising networks (e.g., Google AdMob). These networks may collect personally identifiable information, but the display and provision of ads are managed by these third parties.
+Third-party advertisers may use cookies or other tracking technologies to display personalized ads based on your interests.
+
+Pricing and Purchases
+
+This app is provided primarily as a free service. However, some features within the app may be paid, such as additional content or an option to remove ads.
+Users can make purchases based on the prices displayed within the app, and any refund policy will follow the terms and conditions of the app store.
+Further details about in-app purchases and subscriptions can be found in the "Settings" or "Help" section of the app.
+
+Limitations of Liability
+
+This app is provided "as is," and the developer takes no responsibility for any damage or issues related to its use. The use of this app is entirely at the user’s own risk.
+The developer is not responsible for any direct or indirect damage, loss of data, or device malfunction caused by the use of the app.
+Please note that the app's service may be temporarily interrupted, or its support may be terminated at any time without prior notice from the developer.
 Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
