@@ -77,6 +77,11 @@ This app is provided primarily as a free service. However, some features within 
 Users can make purchases based on the prices displayed within the app, and any refund policy will follow the terms and conditions of the app store.
 Further details about in-app purchases and subscriptions can be found in the "Settings" or "Help" section of the app.
 
+Subscription and In-App Purchases
+
+This app offers in-app purchases and subscription services, such as the option to remove ads. Subscriptions automatically renew unless canceled 24 hours before the end of the current period. You can manage or cancel your subscription through your App Store account settings. Refunds are processed according to the terms and conditions of Apple App Store/Google Play Store.
+You can cancel your subscription at any time through your App Store/Google Play account settings. Upon cancellation, access to subscription features will remain active until the end of the current billing period, after which the features will be deactivated.
+
 Limitations of Liability
 
 This app is provided "as is," and the developer takes no responsibility for any damage or issues related to its use. The use of this app is entirely at the user’s own risk.
