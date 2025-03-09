@@ -60,6 +60,11 @@ Cookiesは、少量のデータを含むファイルで、通常は匿名の一�
 責任の制限
 このアプリは「現状のまま」で提供されており、開発者はその使用に関連する損害や問題について責任を負いません。アプリの使用は、ユーザーの自己責任です。
 
+アフィリエイトリンクについて
+当アプリでは、もしもアフィリエイトをはじめとする複数のアフィリエイトプログラムに参加しており、アフィリエイトリンクが使用されています。これにより、リンク先で商品やサービスをご購入いただいた場合、当方にアフィリエイト報酬が支払われる場合があります。
+また、アフィリエイトパートナーは、広告の効果測定やパーソナライズされた広告表示のため、IPアドレスやデバイス情報、クッキーなどの技術を利用して情報を収集する場合があります。これらの情報は、当アプリの運営や改善の目的で利用されるものではなく、各アフィリエイトパートナーの独自のプライバシーポリシーに基づいて管理されます。
+ユーザーがアフィリエイトリンクをクリックすることにより、該当するパートナーのサイトへ移動し、そのサイトのプライバシーポリシーが適用されますので、詳細は各パートナーのサイトをご確認ください。
+
 プライバシーポリシーの変更
 私は、必要に応じてプライバシーポリシーを更新することがあります。したがって、定期的にこのページを確認することをお勧めします。変更があった場合、このページに新しいプライバシーポリシーを掲載します。
 
@@ -138,6 +143,14 @@ Advertising and Third-Party Services
 
 The app uses third-party advertising networks (e.g., Google AdMob). These networks may collect personally identifiable information, but the display and provision of ads are managed by these third parties.
 Third-party advertisers may use cookies or other tracking technologies to display personalized ads based on your interests.
+
+Affiliate Links Disclosure
+
+This app contains affiliate links provided through various affiliate programs (e.g., "Moshimo Affiliate", Amazon Affiliate, Rakuten Affiliate, etc.).
+If you click on these affiliate links and subsequently purchase products or services, I may receive an affiliate commission at no additional cost to you.
+Please note that affiliate partners may use cookies and other tracking technologies to analyze click-through data and optimize advertising.
+The affiliate links function in the same manner as regular links; however, once you click an affiliate link, you will be directed to the partner's website and their privacy policy will apply.
+For further details, please refer to the privacy policies and terms of use of the respective affiliate partners.
 
 Pricing and Purchases
 
