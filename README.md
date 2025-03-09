@@ -1,6 +1,6 @@
 # PrivacyPolicy
 
-Yuichiro Noda  built the JugPro, chibariyoCherryCounter, TOKIOHakamaCounter as a Free app. This SERVICE is provided by Yuichiro Noda  at no cost and is intended for use as is.
+Yuichiro Noda  built the JugPro, chibariyoCherryCounter, TOKIOHakamaCounter, Kaiten〜PachinkoKaitenrithuKeisanApuri〜, HarakiriDriveCounter, MonkeyV-5MaiyakuCounter- as a Free app. This SERVICE is provided by Yuichiro Noda  at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -56,6 +56,14 @@ Pricing and Purchases
 This app is provided primarily as a free service. However, some features within the app may be paid, such as additional content or an option to remove ads.
 Users can make purchases based on the prices displayed within the app, and any refund policy will follow the terms and conditions of the app store.
 Further details about in-app purchases and subscriptions can be found in the "Settings" or "Help" section of the app.
+
+Affiliate Links Disclosure
+
+This app contains affiliate links provided through various affiliate programs (e.g., "Moshimo Affiliate", Amazon Affiliate, Rakuten Affiliate, etc.).
+If you click on these affiliate links and subsequently purchase products or services, I may receive an affiliate commission at no additional cost to you.
+Please note that affiliate partners may use cookies and other tracking technologies to analyze click-through data and optimize advertising.
+The affiliate links function in the same manner as regular links; however, once you click an affiliate link, you will be directed to the partner's website and their privacy policy will apply.
+For further details, please refer to the privacy policies and terms of use of the respective affiliate partners.
 
 Advertising and Data Collection Transparency
 
