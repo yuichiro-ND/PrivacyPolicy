@@ -1,6 +1,6 @@
 # PrivacyPolicy
 
-Yuichiro Noda  built the JugPro, chibariyoCherryCounter, TOKIOHakamaCounter, Kaiten〜PachinkoKaitenrithuKeisanApuri〜, HarakiriDriveCounter, MonkeyV-5MaiyakuCounter- as a Free app. This SERVICE is provided by Yuichiro Noda  at no cost and is intended for use as is.
+Lever ON (represented by Yuichiro Noda) built the JugPro, chibariyoCherryCounter, TOKIOHakamaCounter, Kaiten〜PachinkoKaitenrithuKeisanApuri〜, HarakiriDriveCounter, MonkeyV-5MaiyakuCounter- as a Free app. This SERVICE is provided by Yuichiro Noda  at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -93,6 +93,11 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Business Information
+
+Business Name: Lever ON  
+Representative: Yuichiro Noda
 
 Contact Us
 
